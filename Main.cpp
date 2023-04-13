@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	glutInitWindowPosition(200, 100);
 	glutInitWindowSize(500, 500);
 
-	glutCreateWindow("Title"); //Window title
+	glutCreateWindow("Equipo 2 - 8M"); //Window title
 	glutDisplayFunc(display);
 	init();
 	glutReshapeFunc(reshape); //Window resized behavior
